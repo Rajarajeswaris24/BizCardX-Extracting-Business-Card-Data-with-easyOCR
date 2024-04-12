@@ -18,9 +18,11 @@ To run this project open colab,
  4.upload card.py , business-card.jpg and extract.png in runtime.
  
  5.  !wget -q -O - ipv4.icanhazip.com
-    give this command in a cell and run which will provide an ip address that will be a password for tunnel.
+
+      give this command in a cell and run which will provide an ip address that will be a password for tunnel.
     
- 6.  ! streamlit run card.py & npx localtunnel --port 8501
+ 7.  ! streamlit run card.py & npx localtunnel --port 8501
+    
    give this command in another cell and run click 'your url is:' ,this will open a page and give the tunnel password click submit, streamlit page will be opened.
 
 Data Extraction:
