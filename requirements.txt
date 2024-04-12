@@ -1,0 +1,7 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install easyocr
+pip install pandas
+pip install sqlite3
+pip install matplotlib
+pip install opencv-python
